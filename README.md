@@ -30,7 +30,7 @@
 
 `Python` `FastAPI` `Pydantic v2` `LangChain` `Chroma` `bge-small-zh` `Streamlit` `Ollama` `DashScope`
 
-## 联系方式
+## 联系
 
-- 邮箱：2338531106@qq.com
-- 项目主页：https://github.com/libin-rag/rag-doc-qa
+- 项目相关问题请提 [Issue](https://github.com/libin-rag/rag-doc-qa/issues)
+- 其他事宜可通过 GitHub 账号联系
